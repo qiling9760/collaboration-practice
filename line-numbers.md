@@ -2,7 +2,7 @@ Happy Tuesday
 #### 2
 Sammy was here
 #### 4
-#### 5
+Sammy has left the game
 #### 6
 #### 7
 #### 8
