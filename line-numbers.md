@@ -8,7 +8,7 @@ git push
 #### 8
 GitHub is awesome
 #### 10
-#### 11
+git pull
 #### 12
 #### 13
 #### 14
