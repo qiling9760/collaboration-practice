@@ -6,7 +6,7 @@ Sammy has left the game
 #### 6
 git push
 #### 8
-GitHub is really good
+GitHub is awesome
 #### 10
 #### 11
 #### 12
