@@ -4,9 +4,9 @@ Sammy was here
 #### 4
 Sammy has left the game
 #### 6
-git push 
+git push
 #### 8
-#### 9
+GitHub is really good
 #### 10
 #### 11
 #### 12
